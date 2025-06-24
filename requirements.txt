@@ -1,0 +1,4 @@
+flask
+pyqt5
+pyjwt
+requests 
